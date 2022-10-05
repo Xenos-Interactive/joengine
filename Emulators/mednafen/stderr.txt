@@ -1,0 +1,4 @@
+
+Verwendung: E:\06 Videospiele\b02-1_Making_Games_Assets_Notes_etc\google_drive\!General Assets\joengine-master\Emulators\mednafen\mednafen.exe [OPTION]... [Datei]
+	Für Options-Parameter und Verwendung bitte in der Dokumentation nachsehen.
+
